@@ -1,0 +1,11 @@
+# Large datasets and raw data files
+*.csv
+*.zip
+*.parquet
+data/
+datasets/
+
+# Local configuration and environment files
+.env
+config.local.json
+*.log
